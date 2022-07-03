@@ -1,5 +1,4 @@
-修行者全集第十版（简体珍藏版）
+[修行者全集第十版（简体珍藏版）](yjx/index.html)
 
 源站：<http://www.xiuxinzhe.com/yjx/>
 
-[yjx/01.htm](yjx/01.htm)
