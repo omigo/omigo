@@ -1,0 +1,111 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* CSS Document */
+body{
+	height:100%;
+	background:url("../_images/bkg_putuogong01.jpg");
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	background-color:;
+	}
+	
+*{margin:0;
+  padding:0; }
+  
+#main{width:1000;
+      margin:left;
+      padding-left:10px;}
+	
+#header {	width:950px;
+         	height:200px;
+         	margin-bottom:0px;
+         	background:url("../_images/header_putuogong.jpg") no-repeat left;
+}
+#navbar {margin:left;
+          width: 950px;
+          text-align:center;                 
+          border: 0px solid;
+		  background-color:#00F;}
+ul{	
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+li{	width:225px;
+	float:left;
+	
+	
+}
+a:link,a:visited{
+	display:block;
+	font-weight:300;
+	height:20px;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	font-size:25px;
+	color:#690;
+	
+}
+
+a:hover,a:active{
+	background-color: #800;
+	font-family: 宋体;
+	color:#FFC;
+}
+#pagebody{
+	width:950px;
+	height:auto;
+	margin:0 auto;
+	padding:0px 0px 0px 0px;
+	background-color:#933;
+	margin-top:0px;
+	float:left;
+	text-align:left;
+	font-family: 宋体;
+}
+#content{
+	width:950px;
+	height:auto;
+	margin: 0 auto;
+	padding:30px 0px 0px 0px;
+	font-size:15px;
+	line-height:98%;
+	letter-spacing:0px;
+	font-family:宋体;
+
+	color:;
+}
+#pagebody #content p {
+	text-align: left;
+	color:#FFF;
+	font-size:25px;
+    line-height:30px;
+	letter-spacing:2px;
+}
+.h1 {
+	color: #fff;
+}
+#pagebody #content p {
+	text-align:left;
+	color: #FFFFFF;
+	font-weight: bold;
+	margin:0px 0px 0px 15px;
+}
+
+
+h3{font-size:26px;
+color:#FFF;
+margin:0px 0px 0px 15px;}
+.class1 {
+	color: #FFFF00;
+}
+#main #pagebody #content h1 {
+	color: #CC9900;
+}

@@ -1,0 +1,127 @@
+/* CSS Document */
+*{margin:0;
+  padding:0; }
+body {
+	background-color:#3C0A08;
+	font-family:宋体;
+	color:#000;
+	margin-bottom: 0px;
+	text-align:left;
+}
+	
+#header {	width:900px;
+         	height:225px;
+         	margin:0px auto;
+         	margin-bottom:0px;
+         	background:url("../_images/xioxienzho_1.jpg") no-repeat top center;
+}
+
+
+#navbar {margin: 0 auto;
+          width: 900px;
+          text-align:center;                 
+          border: 0px solid ;
+          background-color:#960;  }
+ 
+
+ul{	
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+li{	width:180px;
+	float:left;
+	
+	
+}
+a:link,a:visited{
+	display:block;
+	font-weight:300;
+	height:25px;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	font-size:20px;
+	color:#FFF;
+	
+}
+
+a:hover,a:active{
+	background-color:#900;
+	font-family:宋体;
+	color:#F90;
+}
+
+
+#pagebody{
+	width:900px;
+	height:auto;
+	margin:0 auto;
+	padding:0px 0px 0px 0px;
+	background-color:#EEAC64;
+	margin-top:0px;
+	float:center;
+	text-align:left;
+	font-family: 宋体;
+}
+#content{
+	width:850px;
+	height:auto;
+	margin-left:3%;
+	margin-right:3%;
+	padding:0px;
+	font-size:20px;
+	line-height:190%;
+	letter-spacing:2px;	
+	font-family:宋体   ;
+	text-align:left;	
+}
+h1 {
+	text-align: center;
+	font-family: 宋体;
+	font-size: 35px;
+}  
+h2 {
+	text-align: center;
+	font-family: 宋体;
+	font-size: 28px;
+}              
+h3 {
+	text-align: center;
+	font-family: 宋体;
+	font-size: 24px;
+} 
+ h4 {
+	text-align: center;
+	font-family: 宋体;
+	font-size: 20px;
+}                          
+.img {text-align:center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+              

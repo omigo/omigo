@@ -1,0 +1,211 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#indexbody {width:898px;
+            height:auto;
+            border:outset;
+             margin: 0 auto;
+             padding:50px 0px 0px 0px;
+             background-color:#83986d;
+             
+            }
+            		           
+
+
+#tia01header {	width:900px;
+         	height:200px;
+         	margin:0px auto;
+	margin-top:0px;
+         	margin-bottom:0px;
+	background-image:url("_images/header_zhanwdati.jpg.png");
+}
+	
+#pagebody{    width:900px;
+              height:auto;                
+              margin:0 auto;
+              padding:30px 0px 0px 0px;
+              background-color:#584d09;
+              margin-top:0px; 
+              float:center; }
+#content{
+	width:800px;
+	height:auto;
+	margin-left:5%;
+	margin_right:5%;
+	padding:0px;
+	font-size:20px;
+	line-height:190%;
+	letter-spacing:2px;	
+	font-family: "Courier New", Courier, monospace;
+	text-align:left;
+	color:#FFF;	
+}
+
+#tudiheader {	width:845px;
+         	height:200px;
+         	margin:0px auto;
+	margin-top:0px;
+         	margin-bottom:0px;
+	background-image:url("_images/header_tudimiao.jpg");
+}
+
+#tudpage{	width:845px;
+	height:auto;
+	margin:0 auto;
+	padding:20px 0px 0px 0px;
+	background-color:#FC6;
+	margin-top:0px;
+	}
+	
+#tudcontent{
+	width:750px;
+	height:auto;
+	margin-left:5%;
+	padding:0px;
+	font-size:20px;
+	line-height:190%;
+	letter-spacing:2px;	
+	font-family: "Courier New", Courier, 
+	text-align:left;
+	color:#000;	
+}
+#tianzhuheader {	width:800px;
+         	height:200px;
+         	margin:0px auto;
+	margin-top:0px;
+         	margin-bottom:0px;
+	background-image:url("_images/tianzhutanheader.jpg");	         	
+}
+
+
+#tianzhupage{	width:800px;
+	height:auto;
+	margin:0 auto;
+	padding:0px;
+	background-color:#1f3065;
+	margin-top:0px;
+	}
+	
+
+#tianzhucontent{
+	width:700px;
+	height:auto;
+	margin-left:5%;
+	margin-right:0%;
+	padding:10px;
+	font-size:18px;
+	color:#FFF;
+	line-height:190%;
+	letter-spacing:2px;	
+	font-family: "Courier New", Courier, monospace;
+	text-align:left  ;
+	
+	}
+	
+h1{
+	color:#FFF;
+	text-align:center;
+	font-size:36px;
+}
+
+h2{
+	color:#600;
+	text-align:center;
+	font-size:36px;
+}
+h3{
+	color:#600;
+	font-size:18px;
+}
+.img{margin:15px;
+	}
+
+
+#tianheader{	width:900px;
+	height:300px;
+	background-image:url("_images/maigueijingheader.gif");
+	margin:auto;
+	margin-top:auto;}
+	
+
+#tianpage{	width:900px;
+	height:auto;
+	background-color:#CECEBD;	
+	margin:auto;
+	
+}
+#tiancontent{
+	width:800px;
+	height:auto;
+	margin-left:5%;	
+	padding:30px 0px 0px 0px;
+	font-size:18px;
+	color:#30F;
+	line-height:150%;
+	letter-spacing:2px;	
+	
+	text-align:left  ;
+	
+	}
+	
+#tianfuheader{	width:900px;
+	height:200px;
+	background-image:url("_images/headertaifu.gif");
+	margin:auto;
+	margin-top:auto;}
+	
+#tianfupage{	width:900px;
+	
+
+	background:url("_images/taifubakg.gif") repeat-y;
+		
+	margin:auto;}
+	
+#tianfucontent{
+	width:800px;
+	height:auto;
+	margin-left:5%;
+	padding:30px 0px 0px 0px;
+	font-size:24px;
+	color:#00F;
+	line-height:150%;
+	letter-spacing:2px;
+	text-align:center;
+	}
+#qing01header{	width:900px;
+	height:250px;
+	background-image:url("_images/headercianzhan01.jpg");
+	margin:auto;
+	margin-top:auto;}
+	
+#qingheader{	width:900px;
+	height:200px;
+	background-image:url("_images/headercianzhan.jpg");
+	margin:auto;
+	margin-top:auto;}	
+#qingpage{	width:900px;
+	height:auto;
+	background-image:url("_images/bkg_qingzhan.jpg");
+	color:#FFF;
+	font-size:19px;
+	margin:auto;}
+	
+#qing01page{	width:900px;
+	height:auto;
+	background:url("http://miduoyuan.com/_images/bkg_ging03.jpg.png");
+	color:#FFF;
+	font-size:19px;
+	margin:auto;}	
+	
+#qingucontent{
+	width:800px;
+	height:auto;
+	margin-left:5%;
+	padding:30px 0px 0px 0px;
+	font-size:18px;
+	color:#FFF;
+	line-height:100%;
+	letter-spacing:1px;
+	text-align:left;
+	}
+	

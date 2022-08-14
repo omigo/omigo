@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* CSS Document */
+
+*{margin:0;
+  padding:0; }
+body {
+	background-image:url("../_images/bkg_shengmingyuan.jpg");
+	font-family:宋体;
+	color:#000;
+	margin-bottom: 0px;
+	text-align:left;
+}
+	
+#header {	width:900px;
+         	height:200px;
+         	margin:0px auto;
+         	margin-bottom:0px;
+         	background:url("../_images/header_shengmingyuan.jpg") no-repeat center;
+}
+#navbar {margin: 0 auto;
+          width: 900px;
+          text-align:center;                 
+          border: 0px solid;
+		  background-color:#6FF;}
+ ul{	
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+li{	width:225px;
+	float:left;
+	
+	
+}
+a:link,a:visited{
+	display:block;
+	font-weight:300;
+	height:20px;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	font-size:25px;
+	color:#690;
+	
+}
+
+a:hover,a:active{
+	background-color: #800;
+	font-family: 宋体;
+	color:#FFC;
+}
+#pagebody{
+	width:900px;
+	height:auto;
+	margin:0 auto;
+	padding:20px 0px 0px 0px;
+	background-color:#036;
+	margin-top:0px;
+	float:center;
+	text-align:left;
+	font-family: 宋体;
+}
+#content{
+	width:850px;
+	height:auto;
+	margin-left:3%;
+	margin-right:3%;
+	padding:0px;
+	font-size:20px;
+	line-height:150%;
+	letter-spacing:2px;	
+	font-family:宋体   ;
+	text-align:left;	
+}
+#pagebody #content p {
+	text-align: left;
+	color: #fff;
+}
+.h1 {
+	color: #fff;
+}
+#pagebody #content p {
+	text-align: left;
+}

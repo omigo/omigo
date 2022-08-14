@@ -1,0 +1,130 @@
+/* CSS Document */
+*{margin:0;
+  padding:0; }
+
+
+body {
+	background-color:#003;
+	font-family:"Courier New", Courier, monospace;
+	color:#630;
+	margin-bottom: 0px;
+}
+p {
+	text-indent:80px;
+	text-align: left;
+	font-size: 18px;
+	font-family: "Courier New", Courier, monospace;
+}
+h1 {
+	text-align: center;
+	font-family: 宋体;
+}
+
+
+.img {text-align:center;}
+
+#pagebody #content h3 {
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	text-align:center;
+	font-size: 24px;
+}
+#pagebody #content h2 {
+	font-size: 24px;
+	text-align:center;
+}	
+#pagebody #content h3 {
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	text-align:center;
+
+}
+
+	
+#header {	width:896px;
+         	height:200px;
+         	margin:0px auto;
+         	margin-bottom:0px;
+         	background:url("../_images/header_yuzusangminxuei.jpg") no-repeat top center;
+}
+#navbar {margin: 0 auto;
+          width: 896px;
+          text-align:center;                 
+          border: 0px solid ;
+          background-color:#708CA1  }
+ 
+
+ul{	
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+li{	width:128px;
+	float:left;
+	
+	
+}
+a:link,a:visited{
+	display:block;
+	font-weight:300;
+	height:25px;
+	text-align:center;
+	text-decoration:none;
+	padding:10px;
+	font-size:20px;
+	color:#411114;
+	
+}
+
+a:hover,a:active{
+	background-color:#F90;
+	font-family: "Courier New", Courier, monospace;
+}
+#page{	width:896px;
+	height:auto;
+	padding:0px;
+	float:center;
+	background-color:#FFF;
+	margin:0 auto;}
+
+#pagebody{    width:896px;
+            	  height:auto;                
+              margin:0 auto;
+              padding:30px 0px 0px 0px;
+              background-color:#F7FFFF;
+              margin-top:0px; 
+              float:center; }
+
+
+#content{
+	width:800px;
+	height:auto;
+	margin-left:5%;
+	margin_right:5%;
+	padding:0px;
+	font-size:18px;
+	line-height:190%;
+	letter-spacing:2px;	
+	font-family: "Courier New", Courier, monospace;
+	text-align:left;	
+}
+
+table{	width:100%;
+	 border:2;
+	cellspacing:11;
+	cellpadding:9;
+	border-collapse:collapse;
+			
+}
+
+td{
+	height:22;
+	font face:宋体;
+	font color:#0000FF;
+	font-size:18px;
+	
+	}
